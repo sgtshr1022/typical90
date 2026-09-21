@@ -7,14 +7,14 @@
 ## 進捗
 
 - 合計: 90問
-- 解答済み: 1 / 90
+- 解答済み: 2 / 90
 
 ## ★2 10問 
 
 - [ ] [004 Cross Sum（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_d 
 - [ ] [010 Score Sum Queries（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_j 
 - [x] [022 Cubic Cake（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_v 
-- [ ] [024 Select +／- One（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_x 
+- [x] [024 Select +／- One（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_x 
 - [ ] [027 Sign Up Requests（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_aa 
 - [ ] [033 Not Too Bright（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_ag 
 - [ ] [055 Select 5（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_bc 
