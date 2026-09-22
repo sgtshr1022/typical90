@@ -7,7 +7,7 @@
 ## 進捗
 
 - 合計: 90問
-- 解答済み: 6 / 90
+- 解答済み: 7 / 90
 
 ## ★2 10問 
 
@@ -25,7 +25,7 @@
 ## ★3 20問 
 
 - [ ] [002 Encyclopedia of Parentheses（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_b 
-- [ ] [007 CP Classes（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_g 
+- [x] [007 CP Classes（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_g 
 - [x] [014 We Used to Sing a Song Together（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_n 
 - [ ] [016 Minimum Coins（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_p 
 - [ ] [018 Statue of Chokudai（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_r 
