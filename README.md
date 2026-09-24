@@ -7,7 +7,7 @@
 ## 進捗
 
 - 合計: 90問
-- 解答済み: 12 / 90
+- 解答済み: 13 / 90
 
 ## ★2 10問 
 
@@ -20,7 +20,7 @@
 - [x] [055 Select 5（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_bc 
 - [x] [061 Deck（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_bi 
 - [x] [067 Base 8 to 9（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_bo 
-- [ ] [078 Easy Graph Problem（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_bz 
+- [x] [078 Easy Graph Problem（★2）] https://atcoder.jp/contests/typical90/tasks/typical90_bz 
 
 ## ★3 20問 
 
