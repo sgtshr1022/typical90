@@ -7,7 +7,7 @@
 ## 進捗
 
 - 合計: 90問
-- 解答済み: 15 / 90
+- 解答済み: 16 / 90
 
 ## ★2 10問 
 
@@ -29,7 +29,7 @@
 - [x] [014 We Used to Sing a Song Together（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_n 
 - [x] [016 Minimum Coins（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_p 
 - [x] [018 Statue of Chokudai（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_r 
-- [ ] [020 Log Inequality（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_t 
+- [x] [020 Log Inequality（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_t 
 - [ ] [032 AtCoder Ekiden（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_af 
 - [ ] [038 Large LCM（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_al 
 - [ ] [044 Shift and Swapping（★3）] https://atcoder.jp/contests/typical90/tasks/typical90_ar 
