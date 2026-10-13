@@ -7,7 +7,7 @@
 ## 進捗
 
 - 合計: 90問
-- 解答済み: 17 / 90
+- 解答済み: 18 / 90
 
 ## ★2 10問 
 
@@ -71,7 +71,7 @@
 - [ ] [030 K Factors（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_ad 
 - [ ] [036 Max Manhattan Distance（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_aj 
 - [ ] [037 Don't Leave the Spice（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_ak 
-- [ ] [039 Tree Distance（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_am 
+- [x] [039 Tree Distance（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_am 
 - [ ] [051 Typical Shop（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_ay 
 - [ ] [056 Lucky Bag（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_bd 
 - [ ] [060 Chimera（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_bh 
