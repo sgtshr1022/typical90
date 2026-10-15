@@ -7,7 +7,7 @@
 ## 進捗
 
 - 合計: 90問
-- 解答済み: 18 / 90
+- 解答済み: 19 / 90
 
 ## ★2 10問 
 
@@ -67,7 +67,7 @@
 - [ ] [006 Smallest Subsequence（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_f 
 - [ ] [013 Passing（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_m 
 - [x] [021 Come Back in One Piece（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_u 
-- [ ] [029 Long Bricks（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_ac 
+- [x] [029 Long Bricks（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_ac 
 - [ ] [030 K Factors（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_ad 
 - [ ] [036 Max Manhattan Distance（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_aj 
 - [ ] [037 Don't Leave the Spice（★5）] https://atcoder.jp/contests/typical90/tasks/typical90_ak 
